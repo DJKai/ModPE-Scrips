@@ -4,7 +4,6 @@
 **For the first command add:**
 
 function procCmd(cmd){
-
 cmd = cmd.toLowerCase();
 
 **only add that ONCE at the top of the page.**
@@ -20,7 +19,6 @@ clientMessage("[message]"):
 **therefore if you put**
 
 if(cmd == "Hi"){
-
 clientMessage("Hello"):
 
 **This will do:**
