@@ -9,11 +9,11 @@ cmd = cmd.toLowerCase();
 **only add that ONCE at the top of the page.**
 **To add a command add:**
 
-if(cmd == "<command>"){
+if(cmd == "[command]"){
 
 **Then if you want it to say somthing in the chat add**
 
-clientMessage(""):
+clientMessage("[message]"):
 
 
 **therefore if you put**
