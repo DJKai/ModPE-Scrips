@@ -31,7 +31,7 @@ clientMessage("Hello"):
 
 if you do /hi the chat will say Hello
 
-between diffenent commands add } and when you finish the scrit add 
+between diffenent commands add } and when you finish the script add 
 
 }
 
