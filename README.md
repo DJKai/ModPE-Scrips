@@ -3,8 +3,9 @@
 
 **For the first command add:**
 
-function procCmd(cmd){/n
+function procCmd(cmd){
 cmd = cmd.toLowerCase();
+}
 
 **only add that ONCE at the top of the page.**
 **To add a command add:**
@@ -20,7 +21,12 @@ clientMessage("[message]"):
 
 if(cmd == "Hi"){/n
 clientMessage("Hello"):
+}
 
 **This will do:**
 
 if you do /hi the chat will say Hello
+
+between diffenent commands add } and when you finish the scrit add 
+}
+}
